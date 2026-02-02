@@ -44,8 +44,9 @@ Hi! I'm Mina Lee. I am a SW Engineer with a goal of continuous growth.<br> I wan
 
 | Project Name | Description | Period |
 |-------------|-------------|---------|
-| Fienmee | Community Service for Festival and Event Information | 2024.09 ~ Present |
-| Doculink | Confluence App for Visualizing Document Relationships | 2025.01 ~ Present |
+| OOOOTD | Playful fashion critiques for your daily look | 2025.04 ~ 2025.07 |
+| Fienmee | Community Service for Festival and Event Information | 2024.09 ~ 2025.12 |
+| Doculink | Confluence App for Visualizing Document Relationships | 2025.01 ~ 2025.04 |
 | 링킷 | Chrome Extension & Web Service for Tab and Link Management | 2024.09 ~ 2024.12 |
 | TodayFin | Integrated SNS Service for News and Financial Information | 2024.07 ~ 2024.09 |
 | 충저니 | AI Travel Recommendation Service for Chungcheong-do (KakaoTech Bootcamp Hackathon) | 2024.09 |
@@ -59,5 +60,5 @@ Hi! I'm Mina Lee. I am a SW Engineer with a goal of continuous growth.<br> I wan
 
 <div align="center">
 <h3>🔍 Etc</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=chsjen492&show_icons=true" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dropwort" />
+<img src="https://github-readme-stats.vercel.app/api?username=ninaxlee&show_icons=true" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dropwort" />
 </div>
